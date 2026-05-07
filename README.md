@@ -10,10 +10,11 @@ in Entra ID.<br />
 - Windows 11
 <h2>Sign-In Logs </h2>
 <p>
-</p><img width="953" height="383" alt="sign in logs png" src="https://github.com/user-attachments/assets/d07b8626-26af-49f3-bcea-be80e2ff9df1" />
+<img width="952" height="383" alt="sign in logs" src="https://github.com/user-attachments/assets/87c06543-e1bc-4b04-a9bc-87c61b60870b" />
 </p>
 <p>
 Sign-In Logs of ourselves to interpret our own sign-in activity.
+
 
 
 
