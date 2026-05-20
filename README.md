@@ -13,7 +13,7 @@ in Entra ID.<br />
 <img width="952" height="383" alt="sign in logs" src="https://github.com/user-attachments/assets/87c06543-e1bc-4b04-a9bc-87c61b60870b" />
 </p>
 <p>
-Sign-In Logs of ourselves to interpret our own sign-in activity.
+Reviewed sign-in activity to monitor successful and interrupted authentication events in Microsoft Entra ID.
 
 
 
